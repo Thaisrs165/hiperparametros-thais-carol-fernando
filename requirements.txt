@@ -1,0 +1,11 @@
+aigyminsper
+numpy
+pytest
+pytest-timeout
+datetime
+pygame
+gymnasium
+matplotlib
+IPython
+pandas
+seaborn
